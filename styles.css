@@ -32,7 +32,7 @@ header {
   top: 8px;
   width: 100%; /* anchura del contenedor */
   padding: 10px; /* empuja hacia afuera  */
-  border-style: dotted;
+  border-style: dotted; /* PROYECTO TERMINADO */
 }
 
 .sidebar {
